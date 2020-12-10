@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hola mundo
 
-I'm glad you are here. I plan to talk about ...
+Esta es una página de **prueba** para *ver cómo* funciona GitHub
